@@ -13,3 +13,5 @@ prints the absolute path name of the current working directory.
 [5-listfilesdigitonly](./5-listfilesdigitonly)--- Display current directory contents,long format,with user and group IDs displayed numerically,and hidden files(starting with.)
 
 [6-firstdirectory](./6-firstdirectory)--- Create a script that creates a directory named my_first_directory in the /tmp/directory.
+
+[7-movethatfile](./7-movethatfile)--- move the file betty from /tmp/ to /tmp/my_first_directory
