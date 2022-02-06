@@ -1,2 +1,2 @@
 #!/bin/bash
-chown 755 ./
+chmod -R a+x ./
