@@ -19,3 +19,7 @@
 [8-cwd_state](./8-cwd_state) - white a script that writes into the file ls_cwd_states the result of the commands ls -la
 
 [9-duplicate_last_line](./9-duplicate_last_line) - write a script that duplicates the last line f the file iacta
+
+[10-no_more_js](./10-no_more_js)-- write a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders
+
+[11-directories](./11-directories)-- write a script that counts the number of directories and sub-directories in the current directory.the current and parent directories should not be taken into account. hidden directories should be counted
