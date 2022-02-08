@@ -9,3 +9,6 @@
 [3-paths](.\3-paths)-- create a script that counts the number of directories in the PATH
 
 [4-global_variables](-\4-global_variables)-- create a script that lists environment variables
+
+[5-local_variables](./5-local_variables)-- create a script that list
+ all local variables and environment variables, and functions.
