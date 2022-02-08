@@ -13,3 +13,5 @@
 [5-firstlines](./5-firstlines)-- Display the first 10 lines of /etc/passwd
 
 [6-third_line](./6-third_line)-- Write a script displays the third line of the file iacta
+
+[7-file](./7-file)- Write shell script that creates a file named exactly \*\\'best school"\'\\*$\?\*\*\*\*\*:) containing the tet Best School ending by a new line
