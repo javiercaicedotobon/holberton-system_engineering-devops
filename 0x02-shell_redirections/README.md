@@ -17,3 +17,5 @@
 [7-file](./7-file)- Write shell script that creates a file named exactly \*\\'best school"\'\\*$\?\*\*\*\*\*:) containing the tet Best School ending by a new line
 
 [8-cwd_state](./8-cwd_state) - white a script that writes into the file ls_cwd_states the result of the commands ls -la
+
+[9-duplicate_last_line](./9-duplicate_last_line) - write a script that duplicates the last line f the file iacta
