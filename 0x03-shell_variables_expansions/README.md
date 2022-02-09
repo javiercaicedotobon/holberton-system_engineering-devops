@@ -26,3 +26,5 @@
 [11-binary_to_decimal](./11-binary_to_decimal)-- write a script that converts a number from base 2 to base 10. The number in base 2 is stored in the environment variable BINARY. The scriot should display the number in base 10, followed by a new line
 
 [12-combinatios](./12-combinatios)-- create a scriot that prints all possible combinatios of two letters, except oo.
+
+[13-print_float](./13-print_float)-- write a script that prints a number with two decmal places, floowed by a new line
