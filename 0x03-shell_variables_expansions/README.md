@@ -20,3 +20,5 @@
 [8-true_knowledge](./7-true_knowledge)-- write a script that prints the result of the adittion of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed dy new line.
 
 [9-divide_and_rule](./9-divide_and_rule)-- write a script that prints the result of POWER divide by DIVIDE, followed by a new line
+
+[10-love_exponent_breath](./10-love_exponent_breath)-- write a script that displays the result of BREATH to the power LOVE. BREATH and LOVE are environment variables. The script should display the result, followed by a new line.
