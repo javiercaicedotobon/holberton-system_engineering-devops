@@ -14,3 +14,5 @@
  all local variables and environment variables, and functions.
 
 [6-create_varible_local](./6-create_variable_local)-- create a script that creates a new local variable-
+
+[7-create_global_variable](./7-create_global_variable)-- create a script that creates a new global variable.
